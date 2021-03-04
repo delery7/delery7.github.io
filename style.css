@@ -1,0 +1,40 @@
+header {
+  background: #333;
+}
+
+/* .container {
+  width: 800px;
+  margin: 0 auto;
+} */
+
+/* h1 {
+  font-size: 28px;
+  color: rgb(238, 238, 238);
+  text-align: left;
+} */
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2;
+  color: blue;
+}
+/* .col-md-4{
+  background: white;
+} */
+
+.container1{
+  background: white;
+}
+
+.jumbotron{
+  background: white;
+}
+
+.container { background: #8b8b8a; }
+
+#thumbnail1 {
+  float: left;
+  top: 0 px;
+  left: 0 px;
+}
+
